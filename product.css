@@ -135,7 +135,6 @@ nav ul .active {
     justify-content: center;
     flex-wrap: wrap;
     border-radius: 10px;
-    /* border: 1px solid var(--color-heading); */
     background-color: var(--color-text-light);
     overflow: hidden;
     transition: all 0.3s;
@@ -152,7 +151,6 @@ nav ul .active {
     justify-content: center;
     align-items: start;
     background-color: var(--color-text-light);
-    /* border-left: 1px solid var(--color-heading); */
     padding: 50px;
 }
 
@@ -263,7 +261,6 @@ form .color {
     border-radius: 50%;
     width: 30px;
     height: 30px;
-    /* background-color: var(--color-bg-soft); */
     box-shadow: 0px 4px 6px #0000001a;
     cursor: pointer;
     transition: all 0.3s;
@@ -273,7 +270,6 @@ form .color {
     border: var(--color-bg-soft);
     border-radius: 50%;
     padding: 0;
-    /* background-color: var(--color-bg-soft); */
 }
 
 .about form input[type="color"]:hover {
