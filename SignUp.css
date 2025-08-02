@@ -127,8 +127,13 @@ nav ul .active {
         padding: 50px 25px;
         flex-direction: column;
     }
+    
     .image img {
         width: 200px !important;
+    }
+
+    .data form {
+        width: 75% !important;
     }
 }
 

@@ -133,7 +133,7 @@ nav ul .active {
     }
 
     .data form {
-        width: 75%;
+        width: 75% !important;
     }
 }
 
