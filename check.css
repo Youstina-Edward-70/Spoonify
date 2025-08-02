@@ -146,9 +146,8 @@ footer .container {
 
 @media (max-width: 760px) {
     footer .container {
-        flex-direction: column;
+        flex-direction: column !important;
         align-items: center;
-
     }
     
     footer .box {
