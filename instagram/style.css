@@ -175,6 +175,10 @@ aside #profile img {
     height: 100%;
 }
 @media (max-width: 760px) {
+    .profile {
+        flex-direction: column;
+    }
+    
     .profile .image {
         width: 100px;
         height: 100px;
