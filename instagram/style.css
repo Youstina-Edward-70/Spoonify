@@ -311,6 +311,7 @@ aside #profile img {
 
 .posts .post span {
     color: #fff;
+    text-align: center;
     transition: all 0.3s;
 }
 
